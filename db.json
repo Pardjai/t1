@@ -1,10 +1,1 @@
-[
-    "{\"email\":\"test@t.ru\",\"date\":\"04-08-2022\",\"workingHours\":9,\"type\":\"remote\",\"comment\":\"Some comment\"}",
-    "{\"email\":\"B@mail.ru\",\"date\":\"04-08-2022\",\"workingHours\":8,\"type\":\"remote\",\"comment\":\"Some comment\"}",
-    "{\"email\":\"test@t.ru\",\"date\":\"05-08-2022\",\"workingHours\":8,\"type\":\"remote\",\"comment\":\"Some comment\"}",
-    "{\"email\":\"V@mail.ru\",\"date\":\"05-08-2022\",\"workingHours\":9,\"type\":\"remote\",\"comment\":\"Some comment\"}",
-    "{\"email\":\"Aru@mail.com\",\"date\":\"04-08-2022\",\"workingHours\":9,\"type\":\"office\",\"comment\":\"Some comment\"}",
-    "{\"email\":\"Bru@mail.ru\",\"date\":\"04-08-2022\",\"workingHours\":9,\"type\":\"remote\",\"comment\":\"Some comment\"}",
-    "{\"email\":\"Gru@mail.ru\",\"date\":\"04-08-2022\",\"workingHours\":9,\"type\":\"remote\",\"comment\":\"Some comment\"}",
-    "{\"email\":\"test@t.ru\",\"date\":\"08-08-2022\",\"workingHours\":9,\"type\":\"office\",\"comment\":\"Some comment\"}"
-]
+[{"email":"A@mail.ru","date":"2022-08-08","workingHours":9,"type":"vacation","comment":"Some comment"},{"email":"A@mail.ru","date":"2022-08-08","workingHours":9,"type":"vacation","comment":"Some comment"},{"email":"A@mail.ru","date":"2022-08-16","workingHours":9,"type":"remote","comment":"Some comment"},{"email":"B@mail.ru","date":"2022-08-16","workingHours":9,"type":"remote","comment":"Some comment"}]
